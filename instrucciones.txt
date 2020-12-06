@@ -1,0 +1,16 @@
+falta la base de datos local para guardar descargas, borrador y la lista de juego
+
+ya recibe(login, obtener imagen)
+
+ya inserta(registro)
+
+ya acutaliza(cambiar foto)
+
+
+en configuraciones se lleva a cabo tanto el registro como el cambio de imagen
+
+todo esta en retrofit y jala
+
+las imagenes grandes (mayor a 100KB) no se pueden pasar entre activiades
+
+UserServices estan todas las llamadas a la api
